@@ -1,0 +1,40 @@
+body {
+    background-image:url(imagen.3.jpg) ;
+}  
+
+h1{
+    color: aqua;
+    height: 50px;
+    text-align: center;
+}
+p{
+    color: deeppink;
+    font-size: 25px;
+    
+}
+
+h2{
+    color: aqua;
+    height: 40px;
+}
+
+h3{
+    color: magenta;
+    font-size: 35px;
+}
+p{
+    font-size: 30px;
+}
+h4{
+    color: darkmagenta;
+    font-size: 40px;
+}
+h5{
+    color: indigo;
+    font-size: 46px;
+}
+
+
+
+
+
